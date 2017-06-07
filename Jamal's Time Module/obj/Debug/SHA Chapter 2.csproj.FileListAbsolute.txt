@@ -1,0 +1,6 @@
+c:\users\scottj\documents\visual studio 2013\Projects\SHA Chapter 2\SHA Chapter 2\bin\SHA Chapter 2.dll.config
+c:\users\scottj\documents\visual studio 2013\Projects\SHA Chapter 2\SHA Chapter 2\bin\SHA Chapter 2.dll
+c:\users\scottj\documents\visual studio 2013\Projects\SHA Chapter 2\SHA Chapter 2\bin\SHA Chapter 2.pdb
+c:\users\scottj\documents\visual studio 2013\Projects\SHA Chapter 2\SHA Chapter 2\obj\Debug\SHA Chapter 2.csprojResolveAssemblyReference.cache
+c:\users\scottj\documents\visual studio 2013\Projects\SHA Chapter 2\SHA Chapter 2\obj\Debug\SHA Chapter 2.dll
+c:\users\scottj\documents\visual studio 2013\Projects\SHA Chapter 2\SHA Chapter 2\obj\Debug\SHA Chapter 2.pdb
